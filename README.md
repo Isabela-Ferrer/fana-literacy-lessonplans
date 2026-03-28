@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# FANA Literacy Lesson Planner
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Empowering Educators at the FANA Foundation, Bogotá
 
-## Available Scripts
+This platform is a specialized pedagogical tool designed for the **FANA Foundation** in Bogotá, Colombia. It assists teachers in designing lesson plans for literacy instruction specifically tailored for children who have experienced neglect, trauma, and early educational deprivation.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## The Mission
+Children at FANA often fall behind age-appropriate reading levels due to a lack of early education access. Traditional methods often struggle because the core barrier is **motivation**. Coming from environments where education may not have been prioritized, these students require a classroom experience that is far from traditional.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Our Goal:** Help teachers bridge this gap by creating social-oriented lesson plans based on the specific interests and granular academic difficulties of each child.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Key Features
+* **Engagement-First Design:** Integrates children's personal interests into the curriculum to rebuild motivation.
+* **Social-Oriented Learning:** Focuses on interactions between students to foster a safe and engaging classroom community.
+* **Context-Specific Output:** Generates a full, **time-stamped lesson plan** designed for the unique daily schedule and environment of FANA.
+* **Data Privacy:** This tool **does not store** any Personal Identifiable Information (PII). All inputs are used temporarily and solely for the purpose of AI prompt generation.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technical Overview
+* **Frontend:** Built with **React**.
+* **Intelligence:** Powered by the **OpenAI API** to generate context-aware educational content.
 
-### `npm run build`
+## Getting Started
+To run this project, you will need:
+1.  An **OpenAI API Key**.
+2.  An understanding of the students' current academic needs and personal interests.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> *This project stands as a bridge between technology and social impact, ensuring that every child at FANA has the opportunity to discover the joy of reading through a personalized, trauma-informed lens.*
